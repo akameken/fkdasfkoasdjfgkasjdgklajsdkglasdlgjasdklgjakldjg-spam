@@ -1,0 +1,33 @@
+{
+  "name": "gboty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadow0o0/gboty.git"
+  },
+  "author": "GarZ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shadow0o0/gboty/issues"
+  },
+  "homepage": "https://github.com/shadow0o0/gboty#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "request": "^2.85.0",
+    "jimp": "^0.2.28",
+    "ms": "^2.1.1",
+    "dateformat": "^3.0.3",
+    "got": "^8.3.0",
+    "express": "^4.16.3",
+    "http": "^0.0.0"
+  }
+}
